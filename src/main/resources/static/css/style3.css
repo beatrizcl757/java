@@ -1,0 +1,18 @@
+@font-face {
+font-family: "Agenda Bold";
+src: url("https://www.tiaa.org/public/fonts/285ba495-2172-479d-86ad-c20c8ee7ff3b-2.eot");
+src: url("https://www.tiaa.org/public/fonts/285ba495-2172-479d-86ad-c20c8ee7ff3b-2.eot?") format("embedded-opentype"), url("https://www.tiaa.org/public/fonts/285ba495-2172-479d-86ad-c20c8ee7ff3b-3.woff") format("woff"), url("https://www.tiaa.org/public/fonts/285ba495-2172-479d-86ad-c20c8ee7ff3b-1.ttf") format("truetype"), url("https://www.tiaa.org/public/fonts/285ba495-2172-479d-86ad-c20c8ee7ff3b-4.svg") format("svg");
+font-weight: 900;
+font-style: normal;
+}
+
+
+#confetti {
+  overflow-y: hidden;
+  overflow-x: hidden;
+  width: 100%;
+  margin: 0;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
